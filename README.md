@@ -1,0 +1,1 @@
+Deep learning (DL) is a machine learning technique that can be used to detect plant diseases in images. DL models can learn the features of images, allowing them to identify subtle symptoms of disease that traditional image processing methods may not be able to detect. DL models can also handle large and complex images, making them suitable for high-resolution images
